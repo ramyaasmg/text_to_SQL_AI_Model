@@ -1,0 +1,3 @@
+angchain langchain-groq langchain-community
+sentence-transformers 
+chromadb
